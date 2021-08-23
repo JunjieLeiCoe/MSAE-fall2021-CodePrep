@@ -9,19 +9,19 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 
 # Course Details
 
-### Teaching Staff
+## Teaching Staff
 * Junjie(me) will be teaching this introductory course.
 
-### Class Time
+## Class Time
 * The desired course meet time is Monday & Thursday from 4 to 5pm. But it is still TBD.
 
 * The classroom is still TBD.
 
 
-### Office Hours
+## Office Hours
 * Junjie is available on Slack and email.
 
-### Laptop Policies
+## Laptop Policies
 * You can follow along the class as I type into my computer, but the general policy is that you keep your labtops closed during the lecture time to avoid distractions. 
 
 
