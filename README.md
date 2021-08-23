@@ -1,4 +1,4 @@
-# MSAE-fall2020-CodePrep
+# MSAE-fall2021-CodePrep
 
 ## Initiatives
 This repo is created for students who are interested in the Data Science path of MSAE program. 
