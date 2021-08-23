@@ -59,3 +59,8 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 | Topic #5 |       | * py3-packages : Numpy & Pandas                                                                                   |                                                            |                                                                                    |
 | Topic #6 |       |                                                                                                                   |                                                            |                                                                                    |
 
+
+
+
+## 
+
