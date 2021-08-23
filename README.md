@@ -45,14 +45,12 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 
 # Syllabus
 
-| Topics   | Weeks | Artifact                                                                                                                            | In-Class Lab                                           | Take-Home Challenge                   |
-|----------|-------|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|---------------------------------------|
-| Topic #1 |       | Git & Github, version control system<br>Code Editor & IDEs<br>Python 3 Introduction                                                 | Create your GitHub Account <br>Push your first commits | GitHub Branching<br>Version reversion |
-| Topic #2 |       | Python3 : If-else statements<br>Python3 : Loop<br><br>Linux: Basic Terminal Usage<br><br>Code Assignment & Challenge-1: Flip a Coin |                                                        |                                       |
-| Topic #3 |       | Python 3 : Tuple & Lists<br><br>Code Assignment : UPC Validation<br>Code Challange : Unique Words-Green Eggs and Ham                |                                                        |                                       |
-| Topic #4 |       | Python 3 : Dictionaries<br><br>Code Assingment                                                                                      |                                                        |                                       |
-| Topic #5 |       | Python 3 : <br><br>                                                                                                                 |                                                        |                                       |
-|          |       |                                                                                                                                     |                                                        |                                       |
 
-
-
+| Topics   | Weeks | Artifact                                                                                                           | In-Class Lab                                           | Take-Home Challenge                                                            |
+|----------|-------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------------------------------|
+| Topic #1 |       | Git & Github, version control system<br>Code Editor & IDEs<br>Python 3 Introduction                                | Create your GitHub Account <br>Push your first commits | GitHub Branching<br>Version reversion                                          |
+| Topic #2 |       | Python3 : If-else statements<br>Python3 : Loop<br>Python3 : Function Definition<br><br>Linux: Basic Terminal Usage | flip-a-Coin<br>flip-1000 coins                         | Flip ten thousand coins & count streaks<br>Coin flip probability visualization |
+| Topic #3 |       | Python 3 : Tuple & Lists                                                                                           | UPC Validation                                         | Unique words -- Green Eggs and Ham                                             |
+| Topic #4 |       | Python 3 : Dictionaries & Set                                                                                      |                                                        |                                                                                |
+| Topic #5 |       | Python 3 : <br><br>                                                                                                |                                                        |                                                                                |
+|          |       |                                                                                                                    |                                                        |                                                                                |
