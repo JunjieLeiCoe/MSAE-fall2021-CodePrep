@@ -7,7 +7,7 @@ As I was TAing for MSAE ECON691-01 Professor Nihar's class this summer(2021-summ
 
 So, if you are passionate about incoming Online Experiment classes, Machine Learning classes but do not have any coding experiences yet, or have very little coding experience, and want to prepare ahead. Welcome to this MSAE Fall 2020 Code Preparation Class.
 
-## Course Details
+# Course Details
 
 ### Teaching Staff
 * Junjie(me) will be teaching this introductory course.
@@ -26,7 +26,7 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 
 
 
-## Student Evaluation
+# Student Evaluation
 
 ***This class has no exams, correspondingly, no credit will be rewarded & counted towards graduation. It is purely depends on the students' motivation to participate in this class or not.***  
 
@@ -39,3 +39,5 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 * There will be a Take-Home Challenge each week assigned to students who finished the in-class assignments. 
 
 * All the students need to submit/commit their assignment to the GitHub repository for Junjie to review before Monday's class. 
+
+
