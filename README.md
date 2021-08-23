@@ -43,6 +43,9 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 * All the students need to submit/commit their assignment to the GitHub repository for Junjie to review before Monday's class. 
 
 
+
+
+
 # Syllabus
 
 
