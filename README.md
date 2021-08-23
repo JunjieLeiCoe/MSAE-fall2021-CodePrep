@@ -45,12 +45,14 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 
 # Syllabus
 
-| Weeks    | Artifact                                                                                                                 | Weeks           |
-|----------|--------------------------------------------------------------------------------------------------------------------------|-----------------|
-| Topic #1 | Git & Github<br>Code Editor & IDEs<br>Python 3 Introduction                                                              | Week 1 & Week 2 |
-| Topic #2 | Python3 : If-else<br>Python3 : Loop<br><br>Linux: Basic Terminal Usage<br><br>Code Assignment & Challenge-1: Flip a Coin |                 |
-| Topic #3 | Python 3 : Tuple & Lists<br><br>Code Assignment : UPC Validation<br>Code Challange : Unique Words-Green Eggs and Ham     |                 |
-| Topic #4 | Python 3 : Dictionaries<br>                                                                                              |                 |
-| Topic #5 | Python 3 : <br><br>                                                                                                      |                 |
-|          |                                                                                                                          |                 |
+| Topics   | Weeks | Artifact                                                                                                                            | In-Class Lab                                           | Take-Home Challenge                   |
+|----------|-------|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|---------------------------------------|
+| Topic #1 |       | Git & Github, version control system<br>Code Editor & IDEs<br>Python 3 Introduction                                                 | Create your GitHub Account <br>Push your first commits | GitHub Branching<br>Version reversion |
+| Topic #2 |       | Python3 : If-else statements<br>Python3 : Loop<br><br>Linux: Basic Terminal Usage<br><br>Code Assignment & Challenge-1: Flip a Coin |                                                        |                                       |
+| Topic #3 |       | Python 3 : Tuple & Lists<br><br>Code Assignment : UPC Validation<br>Code Challange : Unique Words-Green Eggs and Ham                |                                                        |                                       |
+| Topic #4 |       | Python 3 : Dictionaries<br><br>Code Assingment                                                                                      |                                                        |                                       |
+| Topic #5 |       | Python 3 : <br><br>                                                                                                                 |                                                        |                                       |
+|          |       |                                                                                                                                     |                                                        |                                       |
+
+
 
