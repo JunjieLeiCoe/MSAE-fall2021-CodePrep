@@ -34,7 +34,7 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 
 * On the first 10-20 minutes of Monday's session, Junjie will review students' submission and list common errors and improvement suggestions. 
 
-* On the first 10-20 minutes of Thursday's session, Junjie will review Monday's lecture materials and post the coding assignments accordingly. 
+* On the first 10-20 minutes of Thursday's session, Junjie will review Monday's lecture materials and post the coding assignments accordingly. Students are expected to solve the coding assignments during classtime. If not, Junjie will show the students how to solve it in the last 10-20 minutes.  
 
 * There will be a Take-Home Challenge each week assigned to students who finished the in-class assignments. 
 
