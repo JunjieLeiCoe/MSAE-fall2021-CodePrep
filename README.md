@@ -24,6 +24,8 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 ### Laptop Policies
 * You can follow along the class as I type into my computer, but the general policy is that you keep your labtops closed during the lecture time to avoid distractions. 
 
+* The machine that I will be using to demo the class is MacBookPro-13 inch version. It is also okay that you are using a windows machine, but the configuration will be slightly different, although I believe that most the part is similar. 
+
 
 
 ## Student Evaluation
@@ -40,4 +42,15 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 
 * All the students need to submit/commit their assignment to the GitHub repository for Junjie to review before Monday's class. 
 
+
+# Syllabus
+
+| Weeks    | Artifact                                                                                                                 | Weeks           |
+|----------|--------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Topic #1 | Git & Github<br>Code Editor & IDEs<br>Python 3 Introduction                                                              | Week 1 & Week 2 |
+| Topic #2 | Python3 : If-else<br>Python3 : Loop<br><br>Linux: Basic Terminal Usage<br><br>Code Assignment & Challenge-1: Flip a Coin |                 |
+| Topic #3 | Python 3 : Tuple & Lists<br><br>Code Assignment : UPC Validation<br>Code Challange : Unique Words-Green Eggs and Ham     |                 |
+| Topic #4 | Python 3 : Dictionaries<br>                                                                                              |                 |
+| Topic #5 | Python 3 : <br><br>                                                                                                      |                 |
+|          |                                                                                                                          |                 |
 
