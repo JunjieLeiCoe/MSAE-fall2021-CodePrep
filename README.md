@@ -8,21 +8,30 @@ As I was TAing for MSAE ECON691-01 Professor Nihar's class this summer(2021-summ
 So, if you are passionate about incoming Online Experiment classes, Machine Learning classes but do not have any coding experiences yet, or have very little coding experience, and want to prepare ahead. Welcome to this MSAE Fall 2020 Code Preparation Class.
 
 ## Course Details
-Junjie(me) will be teaching this introductory course.
+
+### Teaching staff
+* Junjie(me) will be teaching this introductory course.
 
 ### Class time
-The desired course meet time is Monday & Thursday from 4 to 5pm. 
+* The desired course meet time is Monday & Thursday from 4 to 5pm. But it is still TBD.
 
-The classroom is TBD
-
+* The classroom is still TBD.
 
 
 ### Office Hours
-
-
+* Junjie is available on Slack and email.
 
 ### Laptop Policies
+* You can follow along the class as I type into my computer, but the general policy is that you keep your labtops closed during the lecture time to avoid distractions. 
 
+
+
+## Student Evaluation
+
+***This class has no exams, correspondingly, no credit will be rewarded & counted towards graduation. It is purely depends on the students' motivation to participate in this class or not.***  
+
+
+All the assignment information and class materials can be access from Junjie's GitHub repositoy (this repository). Each students will have a general lecture session on Monday 
 
 
 
