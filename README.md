@@ -65,15 +65,14 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 | Topic #11 | TBD   | TBD;<br>If have time, we will cover: <br>* Cross Validation from Scratch<br>* K-Mean cluster classification                           |
 
 
-## Weekly Plans and Assignments
+## Weekly plans  \& assignments
 
 | Week | Topic | Assignment                                                                                      | Take-Home Challenge                   |
 |------|-------|-------------------------------------------------------------------------------------------------|---------------------------------------|
 | 1    | 1     | * Set up your (first) GitHub Account<br>* Push your first commit<br>* Your first Python program | * Git Reverse<br>* Git branching      |
-| 2    | 2     | * Flip a Coin<br>* Flip 1000 Coins<br>* Count Streaks                                           | * Coin Streaks Count                  |
+| 2    | 2     | * Flip a Coin<br>* Flip 1000 Coins<br>* Count Streaks                                           | * Coin Streaks Prediction                  |
 | 3    | 2     | * String match up<br>* Remove repeated characters from a string<br>* `UPC-validation`           | * Unique-words - `Green Eggs and Ham` |
 | 4    | 3     | * Reverse a list<br>* Merge & sort 2 unordered lists                                            |                                       |
-## Weekly Assignments and Take-Home Challenge
 
 
 
