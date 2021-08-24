@@ -2,7 +2,6 @@
 
 # MSAE-fall2021-CodePrep
 
-
 ## Initiatives
 This repo is created for students who are interested in the Data Science path of MSAE program. 
 
@@ -22,6 +21,7 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 
 ### Office Hours
 * Junjie is available on Slack and email.
+
 
 ### Laptop Policies
 * You can follow along the class as I type into my computer, but the general policy is that you keep your labtops closed during the lecture time to avoid distractions. 
