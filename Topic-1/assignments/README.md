@@ -1,5 +1,5 @@
 # Print statement in Python
-In the `divmod` function that I defined, it will return 2 values. 
+In the `divmod` function that predefined in Python3, it will return 2 values. 
 Extarct these 2 values and print them in a formatted manner. 
 
 The expect output should be like this:
