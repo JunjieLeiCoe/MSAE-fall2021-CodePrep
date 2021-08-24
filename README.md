@@ -54,10 +54,10 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 
 | Topics    | Weeks | Artifact                                                                                                                              |
 |-----------|-------|---------------------------------------------------------------------------------------------------------------------------------------|
-| Topic #1  | TBD   | * Git & Github, version control system<br>* Code Editor & IDEs<br>* Python 3 Introduction<br>* Python print, printf, stirng formating |
-| Topic #2  | TBD   | * py3: If-else statements<br>* py3: Loop<br>* py3: Function Definition<br>* SpTp: Linux: Basic Terminal Usage                         |
-| Topic #3  | TBD   | * py3: Tuple & Lists                                                                                                                  |
-| Topic #4  | TBD   | * py3: Dictionaries & Set                                                                                                             |
+| Topic #1  | 1  | * Git & Github, version control system<br>* Code Editor & IDEs<br>* Python 3 Introduction<br>* Python print, printf, stirng formating |
+| Topic #2  | 2&3   | * py3: If-else statements<br>* py3: Loop<br>* py3: Function Definition<br>* SpTp: Linux: Basic Terminal Usage                         |
+| Topic #3  | 4   | * py3: Tuple & Lists                                                                                                                  |
+| Topic #4  | 5   | * py3: Dictionaries & Set                                                                                                             |
 | Topic #5  | TBD   | * py3-package: Numpy                                                                                                                  |
 | Topic #6  | TBD   | * py3-package: Pandas                                                                                                                 |
 | Topic #7  | TBD   | * py3-package: Matplotlib                                                                                                             |
