@@ -16,9 +16,8 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 * Junjie(me) will be teaching this introductory course.
 
 ### Class Time
-* The desired course meet time is Monday & Thursday from 4 to 5pm. But it is still TBD.
-
-* The classroom is still TBD.
+* Class will meets from `4:45-6:25pm`, every `Monday`
+* The classroom is `LS103`.
 
 
 ### Office Hours
@@ -68,7 +67,7 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 | Topic #11 | TBD   | TBD;<br>If have time, we will cover: <br>* Cross Validation from Scratch<br>* K-Mean cluster classification                           |
 
 
-## Weekly plans  \& assignments
+## Weekly plans  \& Assignments
 
 | Week | Topic | Assignment                                                                                      | Take-Home Challenge                   |
 |------|-------|-------------------------------------------------------------------------------------------------|---------------------------------------|
