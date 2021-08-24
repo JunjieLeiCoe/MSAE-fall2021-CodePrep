@@ -48,18 +48,14 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 
 # Syllabus
 
-
-
-| Topics   | Weeks | Artifact                                                                                                          | In-Class Lab                                               | Take-Home Challenge                                                                |
-|----------|-------|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------------------|
-| Topic #1 |       | * Git & Github, version control system<br>* Code Editor & IDEs<br>* Python 3 Introduction                         | * Create your GitHub Account <br>* Push your first commits | * GitHub Branching<br>* Version reversion                                          |
-| Topic #2 |       | * py3: If-else statements<br>* py3: Loop<br>* py3: Function Definition<br><br>* SpTp: Linux: Basic Terminal Usage | * flip-a-Coin<br>* flip-1000 coins                         | * Flip ten thousand coins & count streaks<br>* Coin flip probability visualization |
-| Topic #3 |       | * py3: Tuple & Lists                                                                                              | * UPC Validation                                           | * Unique words -- Green Eggs and Ham                                               |
-| Topic #4 |       | * py3: Dictionaries & Set                                                                                         |                                                            |                                                                                    |
-| Topic #5 |       | * py3-packages : Numpy & Pandas                                                                                   |                                                            |                                                                                    |
-| Topic #6 |       |                                                                                                                   |                                                            |                                                                                    |
-
-
+  | Topics   | Weeks | Artifact                                                                                                                              |
+|----------|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+| Topic #1 | TBD   | * Git & Github, version control system<br>* Code Editor & IDEs<br>* Python 3 Introduction<br>* Python print, printf, stirng formating |
+| Topic #2 | TBD   | * py3: If-else statements<br>* py3: Loop<br>* py3: Function Definition<br>* SpTp: Linux: Basic Terminal Usage                         |
+| Topic #3 | TBD   | * py3: Tuple & Lists                                                                                                                  |
+| Topic #4 | TBD   | * py3: Dictionaries & Set                                                                                                             |
+| Topic #5 | TBD   | * py3-package: Numpy                                                                                                                  |
+| Topic #6 | TBD   | * py3 - package: Pandas                                                                                                               |
 
 
 ## 
