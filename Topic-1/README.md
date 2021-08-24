@@ -1,6 +1,10 @@
 
 # Meet Git & GitHub 
 
+The VCS -- version control system;
+
+
+
 
 # Python print statements & String Formatting
 
