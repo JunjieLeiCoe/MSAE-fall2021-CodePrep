@@ -34,23 +34,17 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 
 ***This class has no exams, correspondingly, no credit will be rewarded & counted towards graduation. It is purely depends on the students' motivation to participate in this class or not.***  
 
-* All the assignment information and class materials can be access from Junjie's GitHub repositoy (this repository). Each students will have a general lecture session on Monday & an interactive coding session on Thursday. 
+* All the assignment information and class materials can be access from Junjie's GitHub repositoy (this repository). Each students will have a general lecture session on Monday & an interactive coding session following that.
 
 * On the first 10-20 minutes of Monday's session, Junjie will review students' submission and list common errors and improvement suggestions. 
 
-* On the first 10-20 minutes of Thursday's session, Junjie will review Monday's lecture materials and post the coding assignments accordingly. Students are expected to solve the coding assignments during classtime. If not, Junjie will show the students how to solve it in the last 10-20 minutes.  
+* Students are expected to solve the coding assignments during classtime. If not, Junjie will show the students how to solve it in the last 10-20 minutes.  
 
 * There will be a Take-Home Challenge each week assigned to students who finished the in-class assignments. 
 
-* All the students need to submit/commit their assignment to the GitHub repository for Junjie to review before Monday's class. 
-
-
-
-
+* All the students should/need to submit/commit their assignment to the GitHub repository for Junjie to review before Monday's class. 
 
 # Syllabus
-
-
 
 | Topics    | Weeks | Artifact                                                                                                                              |
 |-----------|-------|---------------------------------------------------------------------------------------------------------------------------------------|
@@ -66,6 +60,7 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 | Topic #10 | TBD   | TBD; <br>If have time, will cover:<br>* Interactive Visualization -- Plotly API<br>* Introduction to Lasso, Ridge regression.         |
 | Topic #11 | TBD   | TBD;<br>If have time, we will cover: <br>* Cross Validation from Scratch<br>* K-Mean cluster classification                           |
 
+<br>
 
 ## Weekly plans  \& Assignments
 
