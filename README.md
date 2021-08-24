@@ -48,17 +48,32 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 
 # Syllabus
 
-  | Topics   | Weeks | Artifact                                                                                                                              |
-|----------|-------|---------------------------------------------------------------------------------------------------------------------------------------|
-| Topic #1 | TBD   | * Git & Github, version control system<br>* Code Editor & IDEs<br>* Python 3 Introduction<br>* Python print, printf, stirng formating |
-| Topic #2 | TBD   | * py3: If-else statements<br>* py3: Loop<br>* py3: Function Definition<br>* SpTp: Linux: Basic Terminal Usage                         |
-| Topic #3 | TBD   | * py3: Tuple & Lists                                                                                                                  |
-| Topic #4 | TBD   | * py3: Dictionaries & Set                                                                                                             |
-| Topic #5 | TBD   | * py3-package: Numpy                                                                                                                  |
-| Topic #6 | TBD   | * py3 - package: Pandas                                                                                                               |
 
 
-## 
+| Topics    | Weeks | Artifact                                                                                                                              |
+|-----------|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+| Topic #1  | TBD   | * Git & Github, version control system<br>* Code Editor & IDEs<br>* Python 3 Introduction<br>* Python print, printf, stirng formating |
+| Topic #2  | TBD   | * py3: If-else statements<br>* py3: Loop<br>* py3: Function Definition<br>* SpTp: Linux: Basic Terminal Usage                         |
+| Topic #3  | TBD   | * py3: Tuple & Lists                                                                                                                  |
+| Topic #4  | TBD   | * py3: Dictionaries & Set                                                                                                             |
+| Topic #5  | TBD   | * py3-package: Numpy                                                                                                                  |
+| Topic #6  | TBD   | * py3-package: Pandas                                                                                                                 |
+| Topic #7  | TBD   | * py3-package: Matplotlib                                                                                                             |
+| Topic #8  | TBD   | * py3-package: Seaborn                                                                                                                |
+| Topic #9  | TBD   | * py3: OLS modeling with Statsmodels<br>* py3: Introduction to Sklearn                                                                |
+| Topic #10 | TBD   | TBD; <br>If have time, will cover:<br>* Interactive Visualization -- Plotly API<br>* Introduction to Lasso, Ridge regression.         |
+| Topic #11 | TBD   | TBD;<br>If have time, we will cover: <br>* Cross Validation from Scratch<br>* K-Mean cluster classification                           |
+
+
+| Week | Topic | Assignment                                                                                      | Take-Home Challenge                   |
+|------|-------|-------------------------------------------------------------------------------------------------|---------------------------------------|
+| 1    | 1     | * Set up your (first) GitHub Account<br>* Push your first commit<br>* Your first Python program | * Git Reverse<br>* Git branching      |
+| 2    | 2     | * Flip a Coin<br>* Flip 1000 Coins<br>* Count Streaks                                           | * Coin Streaks Count                  |
+| 3    | 2     | * String match up<br>* Remove repeated characters from a string<br>* `UPC-validation`           | * Unique-words - `Green Eggs and Ham` |
+| 4    | 3     | * Reverse a list<br>* Merge & sort 2 unordered lists                                            |                                       |
+## Weekly Assignments and Take-Home Challenge
+
+
 
 
 
