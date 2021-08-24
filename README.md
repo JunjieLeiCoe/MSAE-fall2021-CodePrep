@@ -65,6 +65,8 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 | Topic #11 | TBD   | TBD;<br>If have time, we will cover: <br>* Cross Validation from Scratch<br>* K-Mean cluster classification                           |
 
 
+## Weekly Plans and Assignments
+
 | Week | Topic | Assignment                                                                                      | Take-Home Challenge                   |
 |------|-------|-------------------------------------------------------------------------------------------------|---------------------------------------|
 | 1    | 1     | * Set up your (first) GitHub Account<br>* Push your first commit<br>* Your first Python program | * Git Reverse<br>* Git branching      |
