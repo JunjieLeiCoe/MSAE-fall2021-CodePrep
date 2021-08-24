@@ -1,4 +1,7 @@
+<img align="right" src="https://media1.giphy.com/media/LMt9638dO8dftAjtco/200.gif" width="100">
+
 # MSAE-fall2021-CodePrep
+
 
 ## Initiatives
 This repo is created for students who are interested in the Data Science path of MSAE program. 
