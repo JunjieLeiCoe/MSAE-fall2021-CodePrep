@@ -31,3 +31,36 @@ def count_head(n):
     Returns:
         Tuple : (heads, tails)
     """
+
+# =============================================================================
+
+# Take Home Challenge
+
+
+def tenhead():
+    """this function counts how many times you have flipped
+    and tells you how many times the results has 10 heads, and how many tails correspondingly.
+    """
+
+
+def hot_head_streak(n):
+    """To get N streaks of head in a row.
+    How many tiems I need to flip this coin
+
+    Args:
+        n (int): Number of streaks
+
+    Returns:
+        int: How many times you need to flip this coin
+    """
+
+
+def hot_streaks(n):
+    """How many times I need to flip to get N streaks of either head of tails
+
+    Args:
+        n (int): Number of you streaks desired
+
+    Returns:
+        int: How many flips
+    """
