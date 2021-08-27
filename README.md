@@ -13,24 +13,25 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 
 ### Teaching Staff
 * Junjie(me) will be teaching this introductory course.
-
+<img align="right" src="https://ca.slack-edge.com/T02BSQJSVDY-U02C96Q5N4B-37de3fbdf260-512
+" width="100">
 ### Class Time
-* Class will meets from `4:45-6:25pm`, every `Monday`
+* Class will meets from `6:30-8:30 pm`, every `Monday`
 * The classroom is `LS103`.
 
 
 ### Main References
 
 The class examples and coding challenges comes from a restricted list of various inter-esting and useful courses that I have taken previously and some books that you should visit occasionally.
-* Stephen Hughes,CS-125 - Intro to Computer Science.
-* Mario Javier Carrillo,ECON 611- Computation for Economics, University of San Francisco, 2019 Fall.
-* Nihar Shah,ECON 691-01 - Advanced Online Experimentation,University of San Francisco, 2020 Fall& 2021 Summer.
-* Kyle Carlson,ECON 626 - Experiments and Causal Inference, University of San Francisco, 2020 Fall.
-* XiaoLin Sun ,ECON 691-02 - Int. Machine Learning, University of San Francisco, 2021 Summer.
+* Stephen Hughes, *CS-125* - Intro to Computer Science.
+* Mario Javier Carrillo, *ECON 611*- Computation for Economics, University of San Francisco, 2019 Fall.
+* Nihar Shah, *ECON 691-01* - Advanced Online Experimentation,University of San Francisco, 2020 Fall& 2021 Summer.
+* Kyle Carlson, *ECON 626* - Experiments and Causal Inference, University of San Francisco, 2020 Fall.
+* XiaoLin Sun, *ECON 691-02* - Int. Machine Learning, University of San Francisco, 2021 Summer.
 
 **And some useful books that you should visit occasioanlly**
 * The Linux Command Line by William E. Shotts
-*Linux Pocket Guide by Daniel J. Barret
+* Linux Pocket Guide by Daniel J. Barret
 * ProGit by Chacon and Straub
 * How to think like a Computer Scientist:  Learning with Python
 * Python for Data Analysis by Wes McKinney
@@ -66,9 +67,9 @@ The class examples and coding challenges comes from a restricted list of various
 | Topics    | Weeks | Artifact                                                                                                                              |
 |-----------|-------|---------------------------------------------------------------------------------------------------------------------------------------|
 | Topic #1  | 1  | * Git & Github, version control system<br>* Code Editor & IDEs<br>* Python 3 Introduction<br>* Python print, printf, stirng formating |
-| Topic #2  | 2&3   | * py3: If-else statements<br>* py3: Loop<br>* py3: Function Definition<br>* SpTp: Linux: Basic Terminal Usage                         |
-| Topic #3  | 4   | * py3: Tuple & Lists                                                                                                                  |
-| Topic #4  | 5   | * py3: Dictionaries & Set                                                                                                             |
+| Topic #2  | 1&2   | * py3: If-else statements<br>* py3: Loop<br>* py3: Function Definition<br>* SpTp: Linux: Basic Terminal Usage                         |
+| Topic #3  | 3   | * py3: Tuple & Lists                                                                                                                  |
+| Topic #4  | 4   | * py3: Dictionaries & Set                                                                                                             |
 | Topic #5  | TBD   | * py3-package: Numpy                                                                                                                  |
 | Topic #6  | TBD   | * py3-package: Pandas                                                                                                                 |
 | Topic #7  | TBD   | * py3-package: Matplotlib                                                                                                             |
@@ -84,11 +85,15 @@ The class examples and coding challenges comes from a restricted list of various
 | Week | Topic | Assignment                                                                                      | Take-Home Challenge                   |
 |------|-------|-------------------------------------------------------------------------------------------------|---------------------------------------|
 | 1    | 1     | * Set up your (first) GitHub Account<br>* Push your first commit<br>* Your first Python program | * Git Reverse<br>* Git branching      |
-| 2    | 2     | * Flip a Coin<br>* Flip 1000 Coins<br>* Count Streaks                                           | * Coin Streaks Prediction                  |
-| 3    | 2     | * String match up<br>* Remove repeated characters from a string<br>* `UPC-validation`           | * Unique-words - `Green Eggs and Ham` |
-| 4    | 3     | * Reverse a list<br>* Merge & sort 2 unordered lists                                            |                                       |
+| 1    | 2     | * Flip a Coin<br>* Flip 1000 Coins<br>* Count Streaks                                           | * Coin Streaks Prediction                  |
+| 2   | 2     | * String match up<br>* Remove repeated characters from a string<br>* `UPC-validation`           | * Unique-words - `Green Eggs and Ham` |
+| 3    | 3     | * Reverse a list<br>* Merge & sort 2 unordered lists                                            |                                       |
+
+...
 
 
+---
+*The end*
 
 
 
