@@ -12,8 +12,10 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 # Course Details
 
 ### Teaching Staff
+
 * Junjie(me) will be teaching this introductory course.
 <img align="right" src="./img/junjie.jpg" width="100">
+
 ### Class Time
 * Class will meets from `6:30-8:30 pm`, every `Monday`
 * The classroom is `LS103`.
