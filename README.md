@@ -7,7 +7,7 @@ This repo is created for students who are interested in the Data Science path of
 
 As I was TAing for MSAE ECON691-01 Professor Nihar's class this summer(2021-summer), I realized that students are heavily relied on built-in support from packages such as Sklearn. However, they acutally do not fully understand the underlying logic of these built-in packages, and failed to build custom functions to meet the demand when the problems are slightly modified. And cannot intepret the solution from the instrcutor to improve the next assignment. 
 
-So, if you are passionate about incoming Online Experiment classes, Machine Learning classes but do not have any coding experiences yet, or have very little coding experience, and want to prepare ahead. Welcome to this MSAE Fall 2020 Code Preparation Class.
+So, if you are passionate about incoming Online Experiment classes, Machine Learning classes but do not have any coding experiences yet, or have very little coding experience, and want to prepare ahead. Welcome to this MSAE Fall 2021 Code Preparation Class.
 
 # Course Details
 
@@ -17,6 +17,23 @@ So, if you are passionate about incoming Online Experiment classes, Machine Lear
 ### Class Time
 * Class will meets from `4:45-6:25pm`, every `Monday`
 * The classroom is `LS103`.
+
+
+### Main References
+
+The class examples and coding challenges comes from a restricted list of various inter-esting and useful courses that I have taken previously and some books that you should visit occasionally.
+* Stephen Hughes,CS-125 - Intro to Computer Science.
+* Mario Javier Carrillo,ECON 611- Computation for Economics, University of San Francisco, 2019 Fall.
+* Nihar Shah,ECON 691-01 - Advanced Online Experimentation,University of San Francisco, 2020 Fall& 2021 Summer.
+* Kyle Carlson,ECON 626 - Experiments and Causal Inference, University of San Francisco, 2020 Fall.
+* XiaoLin Sun ,ECON 691-02 - Int. Machine Learning, University of San Francisco, 2021 Summer.
+
+**And some useful books that you should visit occasioanlly**
+* The Linux Command Line by William E. Shotts
+*Linux Pocket Guide by Daniel J. Barret
+* ProGit by Chacon and Straub
+* How to think like a Computer Scientist:  Learning with Python
+* Python for Data Analysis by Wes McKinney
 
 
 ### Office Hours
