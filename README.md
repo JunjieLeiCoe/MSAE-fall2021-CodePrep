@@ -94,7 +94,7 @@ The class examples and coding challenges comes from a restricted list of various
 
 
 ---
-*The end*
+*The end* 
 
 
 
