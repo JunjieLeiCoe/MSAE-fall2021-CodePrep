@@ -1,4 +1,4 @@
-<img align="right" src="https://media1.giphy.com/media/LMt9638dO8dftAjtco/200.gif" width="300">
+<img align="right" src="https://media1.giphy.com/media/LMt9638dO8dftAjtco/200.gif" width="300">  
 
 # MSAE-fall2021-CodePrep
 
