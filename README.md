@@ -38,7 +38,7 @@ The class examples and coding challenges comes from a restricted list of various
 * Python for Data Analysis by Wes McKinney
 
 
-### Office Hours
+### Office Hours (fall2021)
 * Junjie is available on Slack and email.
 
 
